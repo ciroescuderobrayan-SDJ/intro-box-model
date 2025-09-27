@@ -1,0 +1,92 @@
+h1 {
+  background-color: black;
+  color: white;
+  /* padding: 10px; */
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 300px;
+  padding-top: 200px;
+  /* margin: 200px; */
+  margin-top: 300px;
+  margin-bottom: 200px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: yellow solid 10px; 
+  border: 10px solid red;
+  border: dashed 5px blue;
+  border-top: 10px solid green;
+}
+
+section {
+  background-color: lightgrey;
+  color: black;
+  padding: 20px;
+  margin: 50px;
+  border: 5px solid purple;
+}
+
+nav {
+    width: 800px;
+    height: 800px;
+    background-color: lightblue;
+}
+
+a {
+    color: white;
+    background-color: black;
+    padding: 30px;
+    margin: 50px;
+    margin-top: 30px;
+}
+
+.seccion_tres {
+    background-color: lightgreen;
+    color: black;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid orange;
+}
+
+#contenedor {
+    background-color: pink;
+    color: yellow;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid brown;
+}
+
+p {
+    background-color: lightgreen;
+    color: black;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid black;
+}
+
+/* #parrafo {
+    background-color: lightyellow;
+    color: black;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid cyan;
+} */
+
+.parrafo {
+    background-color: lightcoral;
+    color: black;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid grey;
+}
+
+article {
+    background-color: lightcyan;
+    color: black;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid magenta;
+}
+
+article h2 {
+    color: darkblue;
+}
